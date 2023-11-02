@@ -6,21 +6,21 @@ A continuacion se mostrara los elementos que contiene la interfaz:
 
 # Login
 Logo de la empresa (distribuidora el toro)
-Validación de Datos - Login
-Olvidé mi contraseña
-Recordar Mis Datos
-Botones
+, Validación de Datos - Login
+, Olvidé mi contraseña
+, Recordar Mis Datos
+, Botones
 
 # Registro
 Registrarse
-Validación de Datos - Registro
-Botones
+, Validación de Datos - Registro
+, Botones
 
 # Usabilidad y adaptabilidad
 Neutralidad con Backend
-Estados de Operación (efecto)
-Relación de Aspecto
-Etiquetas de Ayuda
+, Estados de Operación (efecto)
+, Relación de Aspecto
+, Etiquetas de Ayuda
 
 # Extras
 Paleta de Colores pre-establecida.
